@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "group_panley",
+      "localizations": [],
+      "name": "Panley Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "com.shimondeitel.pantrytrack.pro.monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited items, low-stock alerts, and shopping-list auto-generation from empty slots",
+              "displayName": "Panley Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.pantrytrack.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Panley Pro Monthly",
+          "subscriptionGroupID": "group_panley",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
